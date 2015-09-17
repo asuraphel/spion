@@ -1,0 +1,14 @@
+Using spion in easy. 
+
+For No Install verion:
+
+1) Double click Spion.py and submit a url and words you want to spy on the web site. You can enter as many submissions as you want.
+2) Double click on __init__.py and it'll go through all the webpages/websites and gives you the notifications if it finds any occurence.
+e.g. I submitted 'http://vnodeinfotech.com/*' on the text box labeled "URL or base_URL/*:(e.g. http://udacity.com/*)" and "hosting" on the text box labeled "ords or regex to spy appearance of:(e.g. released)". Then I ran the __init__.py file. Finally It gave me the notifications of the pages that the word appears. When I ran it the second time no notifications are displayed except the site has added new content containing "hosting".
+
+For Installed version:
+
+run python setup.py install
+Then go to C:\Python26\Lib\site-packages\Spion to find the Spion.py file.
+Make your submissions.
+__init__.py will run on regular interval to check whether new occurences are detected.
