@@ -22,9 +22,9 @@ The same idea can be used to know when a website is no longer "under constructio
 
 - You will not be notified twice for a keyword that is not newly added. Once you receive a notification for a keyword, you'll only recieve another one when the same keyword is added in a different place on that page.
 
--Spion will not only watch a single web page but also a website or part of it specified by a wild card as in the above example submitting http://thesun.co.uk/* will make the Spion to inspect sites beginning with http://thesun.com/ such as http://thesun.co.uk/news/index.html too.
+- Spion will not only watch a single web page but also a website or part of it specified by a wild card as in the above example submitting http://thesun.co.uk/* will make the Spion to inspect sites beginning with http://thesun.com/ such as http://thesun.co.uk/news/index.html too.
 
--Spion will not save the entire web page to track changes on it. It will only save a few bytes of data related to occurences of patterns you are already notified about.
+- Spion will not save the entire web page to track changes on it. It will only save a few bytes of data related to occurences of patterns you are already notified about.
 
 <h4>Installation</h4>
 
